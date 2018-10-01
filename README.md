@@ -14,3 +14,4 @@ No tengo la menor idea yo solo:
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 ```
+Lo se eso no es codigo pero fue lo primiero que copie para comprovar como se ve.
