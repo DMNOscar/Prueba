@@ -9,7 +9,7 @@ No tengo la menor idea yo solo:
 + Selebre mi primer repo.
 ```
 # Ahora viene el codigo
-```
+```xml
 <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
