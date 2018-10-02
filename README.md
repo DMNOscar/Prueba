@@ -15,3 +15,15 @@ No tengo la menor idea yo solo:
     <color name="colorAccent">#FF4081</color>
 ```
 Lo se eso no es codigo pero fue lo primiero que copie para comprovar como se ve.
+
+# Ahora codigo Java
+
+```java
+DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drawer.closeDrawer(GravityCompat.START);
+        return true;
+ ```
+ 
+ Bueno pues esto solo es una prueba para ver como funciona esta cosa. Solo me falta agregar una imagen.
+ 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
