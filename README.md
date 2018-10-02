@@ -1,6 +1,6 @@
 # Prueba
 Hola, este es mi primer repo.
-# ¿De que va?
+### ¿De que va?
 No tengo la menor idea yo solo:
 ```
 - Lo inicie.
@@ -8,7 +8,7 @@ No tengo la menor idea yo solo:
 - Lo subi a GitHub.
 - Festeje mi primer repo.
 ```
-# Ahora viene el codigo
+### Ahora viene el codigo
 ```xml
 <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
@@ -16,7 +16,7 @@ No tengo la menor idea yo solo:
 ```
 Lo se eso no es codigo pero fue lo primiero que copie para comprovar como se ve.
 
-# Ahora codigo Java
+### Ahora codigo Java
 
 ```java
 DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -27,3 +27,8 @@ DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
  Bueno pues esto solo es una prueba para ver como funciona esta cosa. Solo me falta agregar una imagen.
  
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+
+| Esto es | Nuevo|
+| ----- | ---- |
+|  No sabia que  | se podian hacer tablas|
